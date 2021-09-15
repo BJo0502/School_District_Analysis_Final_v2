@@ -27,13 +27,13 @@ The slight increase in Average Reading Score and slight decrease in all other st
 
 ### Scores by school spending
 *The top data frame is the original analysis and the bottom data frame are our modified results*
-![ScoresBySchoolSize](https://user-images.githubusercontent.com/88041368/133309067-f7688271-db81-40ea-9072-0edc703a3b38.png)
+![ScoresBySchoolSize](https://user-images.githubusercontent.com/88041368/133351079-24ccb538-35cb-41ac-804e-cf7baac2518b.png)
 ### Scores by school size
 *The top data frame is the original analysis and the bottom data frame are our modified results*
-![ScoresBySchoolSpendingPerStudent](https://user-images.githubusercontent.com/88041368/133309069-56637b5f-387b-4b45-a9bf-e573f4cc1657.png)
+![ScoresBySchoolSpendingPerStudent](https://user-images.githubusercontent.com/88041368/133351081-c74f5800-66b1-425a-bd5b-855a82a2161b.png)
 ### Scores by school type
 *The top data frame is the original analysis and the bottom data frame are our modified results*
-![ScoresBySchoolType](https://user-images.githubusercontent.com/88041368/133309071-a79ced28-2a7a-4811-ba5e-0a68480d776b.png)
+![ScoresBySchoolType](https://user-images.githubusercontent.com/88041368/133351082-27d31f91-008f-4f75-890b-3efab9524b08.png)
 ## Summary
 In summary, we can see that removing THS' 9th grade results impacted our analysis in the following ways:
 Average Math Score dropped by .07,
